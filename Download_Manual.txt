@@ -1,0 +1,2 @@
+Hello, I'm Rwik
+Please use the templates folder and download it, I've used render_template to add HTML to my python code
